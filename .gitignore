@@ -19,3 +19,16 @@
 .env
 *.log
 .mvn/wrapper/maven-wrapper.jar
+
+#maven wrapper scripts
+/mvnw
+/mvnw.cmd
+
+# IDE and project files
+.classpath
+.project
+.settings/
+
+# build artifacts
+/build/
+/bin/
