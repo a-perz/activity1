@@ -1,7 +1,7 @@
-module com.example.javafxapp {
+module eus.ehu.presentation {
     requires javafx.controls;
     requires javafx.fxml;
 
-    opens com.example.javafxapp to javafx.fxml;
-    exports com.example.javafxapp;
+    opens eus.ehu.presentation to javafx.fxml;
+    exports eus.ehu.presentation;
 }
